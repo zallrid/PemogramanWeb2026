@@ -164,7 +164,7 @@ form select {
 }
 
 form button[type="submit"] {
-    background-color: #1d5b8a;
+    background-color: #1b5e20;
     color: #fff;
     border: none;
     padding: 0.6rem 1.5rem;
@@ -174,7 +174,7 @@ form button[type="submit"] {
 }
 
 form button[type="submit"]:hover {
-    background-color: #164869;
+    background-color: #123e15;
 }
 
 /* ===== Footer ===== */
